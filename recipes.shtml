@@ -1,7 +1,12 @@
 
 <html>
-	<!--#include virtual="navbar_sidebar.txt" -->
+	<head>
+	<!--#include virtual="SSI/header.txt" -->
+	</head>
+	
+	
 	<body>	
+	<!--#include virtual="SSI/navbar_sidebar.txt" -->
 		<div class="row-fluid">
 			<div class="span4">
 				<h2 class="text-center">Marshmallow Crispie Squares</h2>
@@ -23,5 +28,7 @@
             </div><!--/span-->
           </div><!--/row-->
  </body>
+ 
+ 
 </html>
 		  
